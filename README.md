@@ -10,13 +10,13 @@ Theme BHL tùy chỉnh cho wiki Rạp xiếc SCPFVN
 ## Credits
 
 ### Theme BHL gốc
-[https://scp-wiki.wikidot.com/theme:black-highlighter-theme]
+https://scp-wiki.wikidot.com/theme:black-highlighter-theme
 
 ### Theme BHL chỉnh sửa của O5 Command VN
-[http://05command-vn.wikidot.com/component:theme]
+http://05command-vn.wikidot.com/component:theme
 
 ### Collapsible Sidebar
-[https://scp-wiki.wikidot.com/component:collapsible-sidebar]
+https://scp-wiki.wikidot.com/component:collapsible-sidebar
 
 ### SCP Human Resources
-[https://scp-wiki.wikidot.com/theme:scp-human-resources]
+https://scp-wiki.wikidot.com/theme:scp-human-resources
